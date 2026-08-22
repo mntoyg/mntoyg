@@ -24,11 +24,6 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ![Godot](https://img.shields.io/badge/Godot_4-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ### 🏆 Global & National Engagements
-*   **Relativity Robotics Challenge:** Competitor (Buzau, Romania - 2026)
-*   **SuperAI Engineer Season 5:** Selected Participant (2025)
-*   **Bug Bounty Village CTF:** Participant (Las Vegas, USA - 2025)
-*   **EdTech Hack 2024:** Participant (Tallinn, Estonia - 2024)
-*   **Data Universe Program:** Data Analyst Trainee (Khon Kaen University - 2024)
 
 ---
 
