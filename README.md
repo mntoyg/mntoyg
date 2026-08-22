@@ -22,6 +22,12 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
+---
+<div align="center">
+  <!-- Activity Graph แบบ Neon Cyberpunk -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyo-night&bg_color=00000000&color=7aa2f7&line=7dcfff&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
 ### 🔬 Current Focus & Research
 *   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs.
 *   **Hardware & Robotics:** Integrating NVIDIA Jetson modules for custom hardware builds.
@@ -45,6 +51,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <img src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
 </div>
 
+---
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
 </div>
