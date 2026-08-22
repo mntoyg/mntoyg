@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Computer+%26+AI+Engineering;Building+Intelligent+Systems;Automation,+Robotics+%26+HPC" alt="Typing SVG" />
 </div>
 
+<br>
+
+<div align="center">
+  <!-- นี่คือโค้ดสำหรับ Daily Quotes ครับ -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
+
+<br>
+
 I am a Computer and AI Engineering undergraduate dedicated to building intelligent systems, optimizing CI/CD workflows, and integrating hardware with advanced machine learning models. With a strong background in competitive hackathons, I thrive in fast-paced environments that require innovative problem-solving.
 
 ---
@@ -29,11 +38,6 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mntoyg&theme=tokyonight&hide_border=false&v=2" alt="GitHub Streak" />
-</div>
 
 ---
 <div align="center">
