@@ -45,9 +45,10 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <img src="https://skillicons.dev/icons?i=python,cpp,go,rust&theme=dark" alt="Languages" />
   
   <br><br>
-  
+
+<div align="center">
   <p><b>Infrastructure, AI & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=githubactions,linux,docker,bash,pytorvh,tensorflow&theme=dark" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,pytorch,tensorflow&theme=dark" alt="Infrastructure" />
 </div>
 
 ---
