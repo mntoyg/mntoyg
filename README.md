@@ -32,7 +32,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 
 ---
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mntoyg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mntoyg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
