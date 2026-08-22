@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# เพิ่มบรรทัดนี้เพื่อปลดล็อกสิทธิ์ให้ Bot เขียนไฟล์ได้
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
