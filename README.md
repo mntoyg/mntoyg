@@ -57,4 +57,8 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <img src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
 </div>
 
-
+---
+<div align="center">
+  <h3>🐍 My GitHub Contributions</h3>
+  <img src="https://raw.githubusercontent.com/mntoyg/mntoyg/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
