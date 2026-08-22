@@ -18,12 +18,6 @@
   <a href="https://www.linkedin.com/in/thanapat-manasom-165ab02a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <!-- ใส่อีเมลของคุณลงไป 2 จุด (ที่ href และที่ img src) -->
-  <a href="mailto:lighttriad00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lighttriad00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
 
 I am a Computer and AI Engineering undergraduate dedicated to building intelligent systems, optimizing CI/CD workflows, and integrating hardware with advanced machine learning models. With a strong background in competitive hackathons, I thrive in fast-paced environments that require innovative problem-solving.
 
