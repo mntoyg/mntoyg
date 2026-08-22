@@ -28,9 +28,3 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
-### 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
-</div>
