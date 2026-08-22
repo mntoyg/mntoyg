@@ -64,6 +64,15 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 </div>
 
 ---
+### 📊 Advanced Profile Summary
+<div align="center">
+  <img src="./profile-summary-card-output/dark/profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="./profile-summary-card-output/dark/repos-per-language.svg" alt="Repos per Language" width="48%" />
+  <img src="./profile-summary-card-output/dark/stats.svg" alt="Stats" width="48%" />
+  <img src="./profile-summary-card-output/dark/productive-time.svg" alt="Productive Time" width="48%" />
+</div>
+
+---
 <div align="center">
   <img src="metrics.svg" alt="Metrics" width="100%" />
 </div>
