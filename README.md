@@ -13,10 +13,16 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
-### 🔬 Current Focus & Research
-*   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs & SDKs as part of the NVIDIA Developer Program.
-*   **DevOps & Automation:** Architecting and maintaining robust CI/CD workflows using GitHub Actions for projects like *SourceMap*.
-*   **Hardware & Robotics:** Integrating NVIDIA Jetson modules, microcontrollers, and advanced industrial manufacturing tools for custom hardware and robotics builds.
+### 🔬 Highlighted Projects & Focus
+*   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs.
+*   **Hardware & Robotics:** Integrating NVIDIA Jetson modules for custom hardware builds.
+
+<div align="center">
+  <!-- เปลี่ยน YOUR_REPO_NAME เป็นชื่อโปรเจกต์ของคุณ เช่น SourceMap -->
+  <a href="https://github.com/mntoyg/YOUR_REPO_NAME">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mntoyg&repo=YOUR_REPO_NAME&theme=tokyonight&show_icons=true" alt="Highlight Project" width="48%" />
+  </a>
+</div>
 
 ### 💻 Technical Arsenal
 **Languages:**
