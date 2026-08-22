@@ -35,12 +35,6 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <img src="https://streak-stats.demolab.com?user=mntoyg&theme=tokyonight&hide_border=false&v=2" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mntoyg&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&v=2" alt="Trophies" />
-</div>
-
 ---
 <div align="center">
   <b>Profile Visitors 👀</b><br><br>
