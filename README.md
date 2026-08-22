@@ -1,5 +1,8 @@
-# Thanapat Manasom
-**Computer & AI Engineering | Automation, Robotics & High-Performance Computing**
+# Thanapat Manasom 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Computer+%26+AI+Engineering;Building+Intelligent+Systems;Automation,+Robotics+%26+HPC" alt="Typing SVG" />
+</div>
 
 I am a Computer and AI Engineering undergraduate dedicated to building intelligent systems, optimizing CI/CD workflows, and integrating hardware with advanced machine learning models. With a strong background in competitive hackathons and global robotics challenges, I thrive in fast-paced environments that require innovative problem-solving.
 
@@ -28,3 +31,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+<div align="center">
+  <b>Profile Visitors 👀</b><br>
+  <img src="https://profile-counter.glitch.me/mntoyg/count.svg" alt="Visitor Count" />
+</div>
