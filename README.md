@@ -69,5 +69,5 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" width="100%"/>
   <p><i>Thanks for dropping by! Keep coding, keep building. ☕</i></p>
-  <a href="#-thanapat-manasom-"><b>⇧ Back to Top</b></a>
+  <a href="#top"><b>⇧ Back to Top</b></a>
 </div>
