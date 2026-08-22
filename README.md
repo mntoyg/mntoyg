@@ -40,16 +40,15 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 *   **DevOps & Automation:** Architecting and maintaining robust CI/CD workflows using GitHub Actions.
 
 ### 💻 Technical Arsenal
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Infrastructure, AI:**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
+  <p><b>Core Languages & Systems</b></p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,rust&theme=dark" alt="Languages" />
+  
+  <br><br>
+  
+  <p><b>Infrastructure, AI & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=githubactions,linux,docker,bash,pytorvh,tensorflow&theme=dark" alt="Infrastructure" />
+</div>
 
 ---
 <div align="center">
