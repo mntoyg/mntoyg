@@ -44,3 +44,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   <b>Profile Visitors 👀</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
+</div>
