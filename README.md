@@ -31,7 +31,8 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
 <div align="center">
-  <b>Profile Visitors 👀</b><br>
-  <img src="https://profile-counter.glitch.me/mntoyg/count.svg" alt="Visitor Count" />
+  <b>Profile Visitors 👀</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
 </div>
