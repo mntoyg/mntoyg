@@ -13,6 +13,13 @@
 
 <br>
 
+<div align="center">
+  <a href="https://linkedin.com/in/thanapat Manasom"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lighttriad00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
+
+<br>
+
 I am a Computer and AI Engineering undergraduate dedicated to building intelligent systems, optimizing CI/CD workflows, and integrating hardware with advanced machine learning models. With a strong background in competitive hackathons, I thrive in fast-paced environments that require innovative problem-solving.
 
 ---
