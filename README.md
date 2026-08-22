@@ -64,12 +64,6 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 </div>
 
 ---
-### 📈 Activity & Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyonight&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
 <div align="center">
   <img src="metrics.svg" alt="Metrics" width="100%" />
 </div>
