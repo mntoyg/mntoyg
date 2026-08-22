@@ -64,6 +64,11 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 </div>
 
 ---
+<div align="center">
+  <img src="metrics.svg" alt="Metrics" width="100%" />
+</div>
+
+---
 <br>
 
 <div align="center">
