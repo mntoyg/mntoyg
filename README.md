@@ -31,8 +31,17 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mntoyg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
+---
 <div align="center">
   <b>Profile Visitors 👀</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+</div>
+
+---
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mntoyg&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
