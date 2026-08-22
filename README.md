@@ -19,8 +19,8 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 
 <div align="center">
   <!-- เปลี่ยน YOUR_REPO_NAME เป็นชื่อโปรเจกต์ของคุณ เช่น SourceMap -->
-  <a href="https://github.com/mntoyg/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mntoyg&repo=YOUR_REPO_NAME&theme=tokyonight&show_icons=true" alt="Highlight Project" width="48%" />
+  <a href="https://github.com/mntoyg/SourceMap">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mntoyg&repo=SourceMap&theme=tokyonight&show_icons=true" alt="Highlight Project" width="48%" />
   </a>
 </div>
 
