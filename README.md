@@ -6,8 +6,8 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 ---
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mntoyg&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mntoyg&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 ### 🔬 Current Focus & Research
