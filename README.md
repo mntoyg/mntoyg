@@ -30,8 +30,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 
 ---
 <div align="center">
-  <!-- Activity Graph แบบ Neon Cyberpunk -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyo-night&bg_color=00000000&color=7aa2f7&line=7dcfff&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyonight&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ### 🔬 Current Focus & Research
