@@ -22,10 +22,10 @@
 I am a Computer and AI Engineering undergraduate dedicated to building intelligent systems, optimizing CI/CD workflows, and integrating hardware with advanced machine learning models. With a strong background in competitive hackathons, I thrive in fast-paced environments that require innovative problem-solving.
 
 ---
-### 📈 GitHub Analytics
+### 📊 GitHub Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mntoyg&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mntoyg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mntoyg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
