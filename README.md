@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Thanapat Manasom 👋
 
 <div align="center">
@@ -18,21 +19,26 @@
   <a href="https://www.linkedin.com/in/thanapat-manasom-165ab02a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
+
+<br>
 
 I am a Computer and AI Engineering undergraduate dedicated to building intelligent systems, optimizing CI/CD workflows, and integrating hardware with advanced machine learning models. With a strong background in competitive hackathons, I thrive in fast-paced environments that require innovative problem-solving.
 
 ---
 ### 📊 GitHub Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mntoyg&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mntoyg&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mntoyg&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mntoyg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyonight&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
 ### 🔬 Current Focus & Research
 *   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs.
 *   **Hardware & Robotics:** Integrating NVIDIA Jetson modules for custom hardware builds.
@@ -45,7 +51,6 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
   
   <br><br>
 
-<div align="center">
   <p><b>Infrastructure, AI & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=linux,docker,bash,pytorch,tensorflow&theme=dark" alt="Infrastructure" />
 </div>
@@ -64,6 +69,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 
 ---
 <div align="center">
+  <h3>📈 Advanced Metrics</h3>
   <img src="metrics.svg" alt="Metrics" width="100%" />
 </div>
 
