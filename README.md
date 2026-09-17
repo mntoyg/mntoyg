@@ -37,6 +37,7 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 *   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs.
 *   **Hardware & Robotics:** Integrating NVIDIA Jetson modules for custom hardware builds.
 *   **DevOps & Automation:** Architecting and maintaining robust CI/CD workflows using GitHub Actions.
+*   **Cybersecurity & Cyprography:** Work integrate with ai using for research malware and osint.
 
 ### 💻 Technical Arsenal
 <div align="center">
