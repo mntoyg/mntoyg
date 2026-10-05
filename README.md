@@ -34,9 +34,6 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntoyg&theme=tokyonight&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
 
 ### 🔬 Current Focus & Research
 *   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs.
