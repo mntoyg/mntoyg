@@ -19,7 +19,7 @@
 
 <div align="center">
   <!-- ใส่ Username LinkedIn ที่ลิงก์ href -->
-  <a href="https://www.linkedin.com/in/thanapat-manasom-165ab02a6/">
+  <a href="https://www.linkedin.com/in/thanapat-manasom-19432a437/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
