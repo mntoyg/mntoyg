@@ -34,7 +34,16 @@ I am a Computer and AI Engineering undergraduate dedicated to building intellige
 </div>
 
 ---
+## 🏆 Competitive Programming
 
+<p align="center">
+  <a href="https://leetcode.com/u/mntoyg/">
+    <img src="https://leetcard.jacoblin.cool/mntoyg?theme=dark&font=Karma&ext=contest"
+         alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
 ### 🔬 Current Focus & Research
 *   **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and utilizing NVIDIA NIM APIs.
 *   **Hardware & Robotics:** Integrating NVIDIA Jetson modules for custom hardware builds.
