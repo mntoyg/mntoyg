@@ -11,7 +11,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Computer+%26+AI+Engineering;Building+Intelligent+Systems;Automation,+Robotics+%26+HPC;Competitive+Programming+%26+Problem+Solving"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Computer+%26+AI+Engineering;Building+Intelligent+Systems;Automation,+Robotics+%26+HPC;Competitive+Programming+%26+CTF;Cybersecurity+%26+AI+Research"
     alt="Typing SVG"
   />
 </div>
@@ -29,16 +29,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thanapat-manasom-19432a437/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/mntoyg">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -48,9 +42,9 @@
 
 I am a **Computer and AI Engineering undergraduate** passionate about building intelligent systems, developing reliable software, and bridging the gap between hardware and artificial intelligence.
 
-My interests span **AI/ML engineering, high-performance computing, robotics, DevOps, cybersecurity, and competitive programming**.
+My interests span **AI/ML Engineering, High-Performance Computing, Robotics, DevOps, Cybersecurity, Competitive Programming, and Capture The Flag (CTF)**.
 
-With experience in competitive hackathons, I enjoy tackling complex engineering challenges, optimizing systems, and continuously improving my problem-solving skills.
+With experience in competitive hackathons, I enjoy tackling complex engineering challenges, optimizing systems, and continuously improving my problem-solving and security research skills.
 
 ---
 
@@ -75,46 +69,25 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 <div align="center">
   <p>
-    <i>
-      Consistency, algorithmic thinking, and continuous improvement.
-    </i>
+    <i>Consistency, algorithmic thinking, and continuous improvement.</i>
   </p>
 
   <h3>⚡ Competitive Programming Platforms</h3>
 
   <a href="https://leetcode.com/u/mntoyg/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-
   <a href="https://codeforces.com/profile/dxe064g">
-    <img
-      src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
-      alt="Codeforces"
-    />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-
   <a href="https://www.codechef.com/users/mntoyg">
-    <img
-      src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
-      alt="CodeChef"
-    />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-
   <a href="https://atcoder.jp/users/LightT">
-    <img
-      src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logoColor=white"
-      alt="AtCoder"
-    />
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logoColor=white" alt="AtCoder"/>
   </a>
-
   <a href="https://profiles.topcoder.com/d04x">
-    <img
-      src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logoColor=white"
-      alt="Topcoder"
-    />
+    <img src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logoColor=white" alt="Topcoder"/>
   </a>
 </div>
 
@@ -171,13 +144,89 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 ---
 
+## 🛡️ Capture The Flag (CTF) & Cybersecurity
+
+<div align="center">
+
+  <p>
+    <i>Think like an attacker. Build like a defender.</i>
+  </p>
+
+  <h3>🚩 CTF & Cybersecurity Platforms</h3>
+
+  <a href="https://learn.cylabacademy.org/profile">
+    <img
+      src="https://img.shields.io/badge/picoCTF-CyLab_Academy-00ADD8?style=for-the-badge&logo=hackthebox&logoColor=white"
+      alt="picoCTF"
+    />
+  </a>
+
+  <a href="https://tryhackme.com/p/LightTriad">
+    <img
+      src="https://img.shields.io/badge/TryHackMe-LightTriad-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white"
+      alt="TryHackMe"
+    />
+  </a>
+
+  <a href="https://app.hackthebox.com/users/2470386">
+    <img
+      src="https://img.shields.io/badge/Hack_The_Box-2470386-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"
+      alt="Hack The Box"
+    />
+  </a>
+
+</div>
+
+<br>
+
+### 🔐 Cybersecurity & CTF Skills
+
+<div align="center">
+
+![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-00ADD8?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-7B68EE?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF6B6B?style=flat-square)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-F39C12?style=flat-square)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2ECC71?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-3498DB?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Security-008B8B?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8E44AD?style=flat-square)
+
+</div>
+
+<br>
+
+### 🌐 Cybersecurity Platform Profiles
+
+| Platform | Username / ID | Profile |
+|:---:|:---:|:---:|
+| 🚩 picoCTF | CyLab Academy | [View Profile](https://learn.cylabacademy.org/profile) |
+| 🔴 TryHackMe | `LightTriad` | [View Profile](https://tryhackme.com/p/LightTriad) |
+| 🟢 Hack The Box | `2470386` | [View Profile](https://app.hackthebox.com/users/2470386) |
+
+<br>
+
+### 🎯 CTF Learning Journey
+
+- [ ] Web Exploitation
+- [ ] Cryptography
+- [ ] Reverse Engineering
+- [ ] Binary Exploitation
+- [ ] Digital Forensics
+- [ ] OSINT & Security Research
+- [ ] Active Directory & Network Security
+- [ ] Malware Analysis & Threat Research
+
+---
+
 ## 🔬 Current Focus & Research
 
 - **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and NVIDIA NIM APIs for intelligent applications.
 - **Hardware & Robotics:** Integrating NVIDIA Jetson modules into custom hardware and AI-powered robotics projects.
 - **DevOps & Automation:** Designing and maintaining reliable CI/CD pipelines with GitHub Actions and containerized environments.
-- **Cybersecurity & Cryptography:** Exploring AI-assisted malware analysis, OSINT, and security research.
+- **Cybersecurity & Cryptography:** Exploring AI-assisted malware analysis, OSINT, cryptographic techniques, and security research.
 - **Competitive Programming:** Strengthening algorithmic problem-solving, data structures, and computational thinking.
+- **CTF & Offensive Security:** Developing practical security skills through hands-on challenges, vulnerability analysis, and ethical hacking labs.
 
 ---
 
@@ -201,6 +250,17 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
     alt="Infrastructure and AI Tools"
   />
 
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS"
+    alt="Profile Visitor Count"
+  />
 </div>
 
 ---
