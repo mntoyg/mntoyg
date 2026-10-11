@@ -293,17 +293,6 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 ---
 
-## 👀 Profile Visitors
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mntoyg&color=00ADD8&style=for-the-badge&label=VISITORS"
-    alt="Profile Visitor Count"
-  />
-</div>
-
----
-
 ## 🐍 GitHub Contributions
 
 <div align="center">
