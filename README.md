@@ -155,27 +155,33 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <h3>🚩 CTF & Cybersecurity Platforms</h3>
 
   <a href="https://learn.cylabacademy.org/profile">
-    <img
-      src="https://img.shields.io/badge/picoCTF-CyLab_Academy-00ADD8?style=for-the-badge&logo=hackthebox&logoColor=white"
-      alt="picoCTF"
-    />
+    <img src="https://img.shields.io/badge/picoCTF-CyLab_Academy-00ADD8?style=for-the-badge&logoColor=white" alt="picoCTF"/>
   </a>
 
   <a href="https://tryhackme.com/p/LightTriad">
-    <img
-      src="https://img.shields.io/badge/TryHackMe-LightTriad-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white"
-      alt="TryHackMe"
-    />
+    <img src="https://img.shields.io/badge/TryHackMe-LightTriad-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
 
   <a href="https://app.hackthebox.com/users/2470386">
-    <img
-      src="https://img.shields.io/badge/Hack_The_Box-2470386-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"
-      alt="Hack The Box"
-    />
+    <img src="https://img.shields.io/badge/Hack_The_Box-2470386-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  </a>
+
+  <a href="https://www.root-me.org/light-triad?lang=en">
+    <img src="https://img.shields.io/badge/Root--Me-light--triad-222222?style=for-the-badge&logoColor=white" alt="Root-Me"/>
   </a>
 
 </div>
+
+<br>
+
+### 🌐 Cybersecurity Platform Profiles
+
+| Platform | Username / ID | Profile |
+|:---:|:---:|:---:|
+| 🚩 picoCTF | CyLab Academy | [View Profile](https://learn.cylabacademy.org/profile) |
+| 🔴 TryHackMe | `LightTriad` | [View Profile](https://tryhackme.com/p/LightTriad) |
+| 🟢 Hack The Box | `2470386` | [View Profile](https://app.hackthebox.com/users/2470386) |
+| ⚫ Root-Me | `light-triad` | [View Profile](https://www.root-me.org/light-triad?lang=en) |
 
 <br>
 
@@ -193,16 +199,6 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8E44AD?style=flat-square)
 
 </div>
-
-<br>
-
-### 🌐 Cybersecurity Platform Profiles
-
-| Platform | Username / ID | Profile |
-|:---:|:---:|:---:|
-| 🚩 picoCTF | CyLab Academy | [View Profile](https://learn.cylabacademy.org/profile) |
-| 🔴 TryHackMe | `LightTriad` | [View Profile](https://tryhackme.com/p/LightTriad) |
-| 🟢 Hack The Box | `2470386` | [View Profile](https://app.hackthebox.com/users/2470386) |
 
 <br>
 
@@ -251,6 +247,49 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   />
 
 </div>
+
+---
+
+## ⏱️ Coding Time & Language Statistics
+
+<div align="center">
+
+  <p>
+    <i>Tracking my coding journey, one hour at a time.</i>
+  </p>
+
+  <a href="https://wakatime.com/">
+    <img
+      src="https://img.shields.io/badge/WakaTime-Coding_Activity-00ADD8?style=for-the-badge&logo=wakatime&logoColor=white"
+      alt="WakaTime"
+    />
+  </a>
+
+</div>
+
+<br>
+
+### 📊 Programming Language Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
+### 📋 Lifetime Programming Hours
+
+> Manually maintained. Update using verified historical records.
+
+| Language | Total Hours |
+|:---|---:|
+| 🐍 Python | TBD |
+| ⚙️ C++ | TBD |
+| 🐹 Go | TBD |
+| 🦀 Rust | TBD |
+| 🟨 JavaScript | TBD |
+| 🔷 TypeScript | TBD |
+| 🖥️ Bash | TBD |
+| **Total** | **TBD** |
 
 ---
 
