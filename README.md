@@ -65,6 +65,19 @@
     />
   </a>
 </div>
+  <a href="https://daily.dev/lighttriad">
+    <img
+      src="https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white"
+      alt="daily.dev"
+    />
+  </a>
+
+  <a href="https://dev.to/mntoyg">
+    <img
+      src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
+      alt="DEV Community"
+    />
+  </a>
 
 <br>
 
