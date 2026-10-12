@@ -83,7 +83,13 @@
     alt="Patreon"
   />
 </a>
+ <a href="https://www.youtube.com/@LightTriadOfficial">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 
+  <a href="https://www.twitch.tv/lighttria00">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
 <br>
 
 ## 👨‍💻 About Me
