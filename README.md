@@ -71,13 +71,18 @@
       alt="daily.dev"
     />
   </a>
-
   <a href="https://dev.to/mntoyg">
     <img
       src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
       alt="DEV Community"
     />
   </a>
+  <a href="https://www.patreon.com/YOUR_PATREON_USERNAME">
+  <img
+    src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"
+    alt="Patreon"
+  />
+</a>
 
 <br>
 
