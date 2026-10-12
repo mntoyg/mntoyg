@@ -52,6 +52,18 @@
       alt="Reddit"
     />
   </a>
+  <a href="https://medium.com/@hcrgamer100">
+    <img
+      src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"
+      alt="Medium"
+    />
+  </a>
+  <a href="https://bsky.app/profile/lighttriad00.bsky.social">
+    <img
+      src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"
+      alt="Bluesky"
+    />
+  </a>
 </div>
 
 <br>
