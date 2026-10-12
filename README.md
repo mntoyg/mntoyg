@@ -92,6 +92,9 @@
     <a href="https://huggingface.co/LightTriad">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
+  <a href="https://www.kaggle.com/thanapatmanasom">
+  <img src="https://img.shields.io/badge/Kaggle-00ADD8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 <br>
 
 ## 👨‍💻 About Me
