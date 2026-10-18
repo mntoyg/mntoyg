@@ -292,7 +292,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <h3>Core Languages & Systems</h3>
 
   <img
-    src="https://skillicons.dev/icons?i=python,cpp,go,rust&theme=dark"
+    src="https://skillicons.dev/icons?i=python,cpp,go,rust,c,java,php,cs,js,ts&theme=dark"
     alt="Programming Languages"
   />
 
