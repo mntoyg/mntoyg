@@ -40,13 +40,19 @@
       alt="GitHub"
     />
   </a>
+  <a href="https://www.producthunt.com/@lighttriad">
+    <img
+      src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"
+      alt="Product Hunt"
+    />
+  </a>
   <a href="https://discord.com/users/980758189635170354">
     <img
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord"
     />
   </a>
-    <a href="https://www.reddit.com/user/Middle-Ad8249/">
+  <a href="https://www.reddit.com/user/Middle-Ad8249/">
     <img
       src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
       alt="Reddit"
@@ -64,7 +70,6 @@
       alt="Bluesky"
     />
   </a>
-</div>
   <a href="https://daily.dev/lighttriad">
     <img
       src="https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white"
@@ -78,24 +83,37 @@
     />
   </a>
   <a href="https://www.patreon.com/YOUR_PATREON_USERNAME">
-  <img
-    src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"
-    alt="Patreon"
-  />
-</a>
- <a href="https://www.youtube.com/@LightTriadOfficial">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img
+      src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"
+      alt="Patreon"
+    />
+  </a>
+  <a href="https://www.youtube.com/@LightTriadOfficial">
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
   </a>
   <a href="https://www.twitch.tv/lighttria00">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+    <img
+      src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+      alt="Twitch"
+    />
   </a>
-    <a href="https://huggingface.co/LightTriad">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <a href="https://huggingface.co/LightTriad">
+    <img
+      src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
+      alt="Hugging Face"
+    />
   </a>
   <a href="https://www.kaggle.com/thanapatmanasom">
-  <img src="https://img.shields.io/badge/Kaggle-00ADD8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<br>
+    <img
+      src="https://img.shields.io/badge/Kaggle-00ADD8?style=for-the-badge&logo=kaggle&logoColor=white"
+      alt="Kaggle"
+    />
+  </a>
+</div>
+<br />
 
 ## 👨‍💻 About Me
 
