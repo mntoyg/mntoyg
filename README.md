@@ -231,7 +231,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
   <h3>🚩 CTF & Cybersecurity Platforms</h3>
 
-  <a href="https://learn.cylabacademy.org/profile">
+  <a href="https://learn.cylabacademy.org/users/sklsjgjmts1">
     <img src="https://img.shields.io/badge/picoCTF-CyLab_Academy-00ADD8?style=for-the-badge&logoColor=white" alt="picoCTF"/>
   </a>
 
@@ -255,7 +255,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 | Platform | Username / ID | Profile |
 |:---:|:---:|:---:|
-| 🚩 picoCTF | CyLab Academy | [View Profile](https://learn.cylabacademy.org/profile) |
+| 🚩 picoCTF | CyLab Academy | [View Profile](https://learn.cylabacademy.org/users/sklsjgjmts1) |
 | 🔴 TryHackMe | `LightTriad` | [View Profile](https://tryhackme.com/p/LightTriad) |
 | 🟢 Hack The Box | `2470386` | [View Profile](https://app.hackthebox.com/users/2470386) |
 | ⚫ Root-Me | `light-triad` | [View Profile](https://www.root-me.org/light-triad?lang=en) |
