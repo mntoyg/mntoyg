@@ -255,7 +255,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 | Platform | Username / ID | Profile |
 |:---:|:---:|:---:|
-| 🚩 picoCTF | CyLab Academy | [View Profile](https://learn.cylabacademy.org/users/sklsjgjmts1) |
+| 🚩 picoCTF | `sklsjgjmts1` | [View Profile](https://learn.cylabacademy.org/users/sklsjgjmts1) |
 | 🔴 TryHackMe | `LightTriad` | [View Profile](https://tryhackme.com/p/LightTriad) |
 | 🟢 Hack The Box | `2470386` | [View Profile](https://app.hackthebox.com/users/2470386) |
 | ⚫ Root-Me | `light-triad` | [View Profile](https://www.root-me.org/light-triad?lang=en) |
