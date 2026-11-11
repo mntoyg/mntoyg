@@ -307,23 +307,78 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 <div align="center">
 
-  <h3>Core Languages & Systems</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,go,rust,c,java,php,cs,js,ts&theme=dark"
-    alt="Programming Languages"
-  />
+  <h3>⚙️ Core Languages & Systems</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,rust,c,java,php,cs,js,ts&theme=dark" />
 
   <br><br>
 
-  <h3>Infrastructure, AI & Tools</h3>
+  <h3>🎨 Frontend Engineering</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,vercel,react,ts,tailwind,html,css,vite&theme=dark" />
 
-  <img
-    src="https://skillicons.dev/icons?i=linux,docker,bash,pytorch,tensorflow&theme=dark"
-    alt="Infrastructure and AI Tools"
-  />
+  <br><br>
+
+  <h3>🧩 Backend Engineering & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,postgres,redis,mongodb,prisma,graphql&theme=dark" />
+
+  <br><br>
+
+  <h3>🧠 AI, Machine Learning & Deep Learning</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python&theme=dark" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-5B4BDE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+  <br><br>
+
+  <h3>☁️ AI Infrastructure, MLOps & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gcp,githubactions,prometheus,grafana,nginx&theme=dark" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge" />
+
+  <br><br>
+
+  <h3>🛡️ Cybersecurity & Security Research</h3>
+
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  </a>
+
+  <a href="https://blackarch.org/">
+    <img src="https://github.com/blackarch.png?size=48" width="29" height="29" alt="BlackArch Linux icon" />
+    <img src="https://img.shields.io/badge/BlackArch_Linux-111111?style=for-the-badge" alt="BlackArch Linux" />
+  </a>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2E6DB4?style=for-the-badge" />
+
+  <br><br>
+
+  <h3>🤖 Embedded Systems, IoT & Robotics</h3>
+
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,linux,ros&theme=dark" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 
 </div>
+
+---
 
 ---
 
