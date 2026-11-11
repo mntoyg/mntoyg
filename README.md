@@ -16,6 +16,14 @@
   />
 </div>
 
+<div align="center">
+  <img
+    src="./assets/yuri_ascii_readme.gif"
+    alt="ASCII Anime Animation"
+    width="825"
+  />
+</div>
+
 <br>
 
 <div align="center">
