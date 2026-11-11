@@ -1,13 +1,16 @@
 
 # Thanapat Manasom 👋
+<br>
 
 <div align="center">
   <img
+    src="./assets/yuri_ascii_readme.gif"
+    alt="ASCII Animation"
     width="825"
-    alt="Profile Banner"
-    src="https://github.com/user-attachments/assets/c5b1f639-cacc-437f-ba8c-8a027b9c5ab3"
   />
 </div>
+
+<br>
 
 <div align="center">
   <img
