@@ -381,6 +381,68 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 </div>
 
+<h3 align="center">🤖 AI Coding Assistants & Developer Tools</h3>
+
+<div align="center">
+
+  <a href="https://aider.chat/">
+    <img src="https://img.shields.io/badge/Aider-1B1B1B?style=for-the-badge&logo=python&logoColor=white" alt="Aider" />
+  </a>
+
+  <a href="https://openai.com/codex/">
+    <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  </a>
+
+  <a href="https://claude.ai/">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  </a>
+
+  <a href="https://github.com/NousResearch/hermes-agent">
+    <img src="https://img.shields.io/badge/Hermes_Agent-6C3FC5?style=for-the-badge&logoColor=white" alt="Hermes Agent" />
+  </a>
+
+  <a href="https://cursor.com/">
+    <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  </a>
+
+  <a href="https://github.com/features/copilot">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  </a>
+
+</div>
+
+<br>
+
+<h3 align="center">📊 Data Analytics & Visualization</h3>
+
+<div align="center">
+
+  <img
+    src="https://skillicons.dev/icons?i=python,anaconda&theme=dark"
+    alt="Python and Anaconda"
+  />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+</div>
+
 ---
 
 ---
