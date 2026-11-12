@@ -350,6 +350,45 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
   <br><br>
 
+  <h3 align="center">
+  🧬 Deep Learning Architectures & Neural Networks
+</h3>
+
+<div align="center">
+
+  <!-- Foundation Architectures -->
+  <img src="https://img.shields.io/badge/Transformers-7B2CBF?style=for-the-badge" alt="Transformers" />
+  <img src="https://img.shields.io/badge/CNNs-0077B6?style=for-the-badge" alt="CNNs" />
+  <img src="https://img.shields.io/badge/RNNs-2A9D8F?style=for-the-badge" alt="RNNs" />
+  <img src="https://img.shields.io/badge/LSTM-457B9D?style=for-the-badge" alt="LSTM" />
+  <img src="https://img.shields.io/badge/GRU-4361EE?style=for-the-badge" alt="GRU" />
+
+  <br>
+
+  <!-- Generative AI -->
+  <img src="https://img.shields.io/badge/LLMs-9D4EDD?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/Diffusion_Models-FF006E?style=for-the-badge" alt="Diffusion Models" />
+  <img src="https://img.shields.io/badge/GANs-F77F00?style=for-the-badge" alt="GANs" />
+  <img src="https://img.shields.io/badge/VAEs-06D6A0?style=for-the-badge" alt="Variational Autoencoders" />
+
+  <br>
+
+  <!-- Advanced Architectures -->
+  <img src="https://img.shields.io/badge/Mixture_of_Experts-7209B7?style=for-the-badge" alt="Mixture of Experts" />
+  <img src="https://img.shields.io/badge/State_Space_Models-3A86FF?style=for-the-badge" alt="State Space Models" />
+  <img src="https://img.shields.io/badge/Mamba-00B4D8?style=for-the-badge" alt="Mamba" />
+  <img src="https://img.shields.io/badge/GNNs-2D6A4F?style=for-the-badge" alt="Graph Neural Networks" />
+
+  <br>
+
+  <!-- Multimodal & Representation Learning -->
+  <img src="https://img.shields.io/badge/Vision_Transformers-0081A7?style=for-the-badge" alt="Vision Transformers" />
+  <img src="https://img.shields.io/badge/Multimodal_Models-8338EC?style=for-the-badge" alt="Multimodal Models" />
+  <img src="https://img.shields.io/badge/Autoencoders-118AB2?style=for-the-badge" alt="Autoencoders" />
+  <img src="https://img.shields.io/badge/Encoder--Decoder-E63946?style=for-the-badge" alt="Encoder Decoder" />
+
+</div>
+
   <h3>🛡️ Cybersecurity & Security Research</h3>
 
   <a href="https://www.kali.org/">
