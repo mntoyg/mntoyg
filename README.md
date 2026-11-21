@@ -115,6 +115,18 @@
       alt="Kaggle"
     />
   </a>
+  <a href="https://devpost.com/hcrgamer100?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img
+    src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"
+    alt="Devpost"
+  />
+</a>
+<a href="https://light-triad.itch.io/">
+  <img
+    src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
+    alt="itch.io"
+  />
+</a>
 </div>
 <br />
 
