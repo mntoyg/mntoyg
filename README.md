@@ -1,142 +1,103 @@
 
 # Thanapat Manasom 👋
+
 <br>
 
 <div align="center">
-  <img
-    src="./assets/yuri_ascii_readme.gif"
-    alt="ASCII Animation"
-    width="825"
-  />
+  <img src="./assets/yuri_ascii_readme.gif" alt="ASCII Animation" width="825" />
 </div>
 
 <br>
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Computer+%26+AI+Engineering;Building+Intelligent+Systems;Automation,+Robotics+%26+HPC;Competitive+Programming+%26+CTF;Cybersecurity+%26+AI+Research"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Computer+%26+AI+Engineering;Building+Intelligent+Systems;Automation,+Robotics+%26+HPC;Competitive+Programming+%26+CTF;Cybersecurity+%26+AI+Research" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Daily Quote"
-  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
 
 <br>
 
 <div align="center">
+
   <a href="https://www.linkedin.com/in/thanapat-manasom-19432a437/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mntoyg">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.producthunt.com/@lighttriad">
-    <img
-      src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"
-      alt="Product Hunt"
-    />
+    <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" />
   </a>
   <a href="https://discord.com/users/980758189635170354">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.reddit.com/user/Middle-Ad8249/">
-    <img
-      src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
-      alt="Reddit"
-    />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   <a href="https://medium.com/@hcrgamer100">
-    <img
-      src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Medium"
-    />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://bsky.app/profile/lighttriad00.bsky.social">
-    <img
-      src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"
-      alt="Bluesky"
-    />
+    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
   <a href="https://daily.dev/lighttriad">
-    <img
-      src="https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white"
-      alt="daily.dev"
-    />
+    <img src="https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" />
   </a>
   <a href="https://dev.to/mntoyg">
-    <img
-      src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
-      alt="DEV Community"
-    />
+    <img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" />
   </a>
   <a href="https://www.patreon.com/YOUR_PATREON_USERNAME">
-    <img
-      src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"
-      alt="Patreon"
-    />
+    <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
   </a>
   <a href="https://www.youtube.com/@LightTriadOfficial">
-    <img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.twitch.tv/lighttria00">
-    <img
-      src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
-      alt="Twitch"
-    />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://huggingface.co/LightTriad">
-    <img
-      src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
-      alt="Hugging Face"
-    />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
   <a href="https://www.kaggle.com/thanapatmanasom">
-    <img
-      src="https://img.shields.io/badge/Kaggle-00ADD8?style=for-the-badge&logo=kaggle&logoColor=white"
-      alt="Kaggle"
-    />
+    <img src="https://img.shields.io/badge/Kaggle-00ADD8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://devpost.com/hcrgamer100?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-  <img
-    src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"
-    alt="Devpost"
-  />
-</a>
-<a href="https://light-triad.itch.io/">
-  <img
-    src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
-    alt="itch.io"
-  />
-</a>
+  <a href="https://devpost.com/hcrgamer100">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
+  </a>
+  <a href="https://light-triad.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" />
+  </a>
+  <a href="https://dorahacks.io/home">
+    <img src="https://img.shields.io/badge/DoraHacks-FF6B35?style=for-the-badge&logoColor=white" alt="DoraHacks" />
+  </a>
+  <a href="https://www.hackquest.io/user/2464625">
+    <img src="https://img.shields.io/badge/HackQuest-FACC15?style=for-the-badge&logoColor=black" alt="HackQuest" />
+  </a>
+  <a href="https://taikai.network/mntoyg">
+    <img src="https://img.shields.io/badge/TAIKAI-6945ED?style=for-the-badge&logoColor=white" alt="TAIKAI" />
+  </a>
+  <a href="https://devfolio.co/@LightTriad">
+    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logoColor=white" alt="Devfolio" />
+  </a>
+  <a href="https://www.mlh.com/account/profile">
+    <img src="https://img.shields.io/badge/MLH-265A8F?style=for-the-badge&logoColor=white" alt="Major League Hacking" />
+  </a>
+
 </div>
-<br />
+
+<br>
 
 ## 👨‍💻 About Me
 
 I am a **Computer and AI Engineering undergraduate** passionate about building intelligent systems, developing reliable software, and bridging the gap between hardware and artificial intelligence.
 
-My interests span **AI/ML Engineering, High-Performance Computing, Robotics, DevOps, Cybersecurity, Competitive Programming, and Capture The Flag (CTF)**.
+My interests span **AI/ML Engineering, High-Performance Computing, Robotics, DevOps, Cybersecurity, Competitive Programming, Capture The Flag (CTF), Hackathons, and Game Development**.
 
-With experience in competitive hackathons, I enjoy tackling complex engineering challenges, optimizing systems, and continuously improving my problem-solving and security research skills.
+With experience in competitive hackathons, I enjoy tackling complex engineering challenges, optimizing systems, and continuously improving my problem-solving and security research skills. I am also exploring game development through game jams.
 
 ---
 
@@ -160,6 +121,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 ## 🏆 Competitive Programming
 
 <div align="center">
+
   <p>
     <i>Consistency, algorithmic thinking, and continuous improvement.</i>
   </p>
@@ -181,6 +143,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <a href="https://profiles.topcoder.com/d04x">
     <img src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logoColor=white" alt="Topcoder"/>
   </a>
+
 </div>
 
 <br>
@@ -307,6 +270,163 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
 ---
 
+## 🚀 Hackathon Track
+
+<div align="center">
+
+  <p>
+    <i>Build fast, solve real-world problems, and turn ideas into impact.</i>
+  </p>
+
+  <h3>⚡ Hackathon Platforms</h3>
+
+  <a href="https://devpost.com/hcrgamer100">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/>
+  </a>
+
+  <a href="https://dorahacks.io/home">
+    <img src="https://img.shields.io/badge/DoraHacks-FF6B35?style=for-the-badge&logoColor=white" alt="DoraHacks"/>
+  </a>
+
+  <a href="https://www.hackquest.io/user/2464625">
+    <img src="https://img.shields.io/badge/HackQuest-FACC15?style=for-the-badge&logoColor=black" alt="HackQuest"/>
+  </a>
+
+  <a href="https://taikai.network/mntoyg">
+    <img src="https://img.shields.io/badge/TAIKAI-6945ED?style=for-the-badge&logoColor=white" alt="TAIKAI"/>
+  </a>
+
+  <a href="https://devfolio.co/@LightTriad">
+    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logoColor=white" alt="Devfolio"/>
+  </a>
+
+  <a href="https://www.mlh.com/account/profile">
+    <img src="https://img.shields.io/badge/Major_League_Hacking-265A8F?style=for-the-badge&logoColor=white" alt="MLH"/>
+  </a>
+
+</div>
+
+<br>
+
+### 🌐 Hackathon Platform Profiles
+
+| Platform | Username / ID | Profile |
+|:---:|:---:|:---:|
+| 🔵 Devpost | `hcrgamer100` | [View Profile](https://devpost.com/hcrgamer100) |
+| 🟠 DoraHacks | — | [Visit Platform](https://dorahacks.io/home) |
+| 🟡 HackQuest | `2464625` | [View Profile](https://www.hackquest.io/user/2464625) |
+| 🟣 TAIKAI | `mntoyg` | [View Profile](https://taikai.network/mntoyg) |
+| 🔷 Devfolio | `LightTriad` | [View Profile](https://devfolio.co/@LightTriad) |
+| 🔴 Major League Hacking | — | [Account Profile](https://www.mlh.com/account/profile) |
+
+<br>
+
+### 🧠 Hackathon Focus Areas
+
+<div align="center">
+
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-7B2CBF?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Development-00ADD8?style=flat-square)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-2ECC71?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-6945ED?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square)
+![Product Innovation](https://img.shields.io/badge/Product_Innovation-FF6B6B?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-3498DB?style=flat-square)
+
+</div>
+
+<br>
+
+### 🏅 Hackathon History & Achievements
+
+> Tracking hackathon participation, project submissions, and achievements.
+
+| Event | Project | Platform | Result | Year |
+|:---|:---|:---|:---:|:---:|
+| TBD | TBD | TBD | TBD | TBD |
+
+<br>
+
+### 🎯 Hackathon Learning Journey
+
+- [ ] Rapid Prototyping & MVP Development
+- [ ] AI-Powered Product Development
+- [ ] Full-Stack Application Development
+- [ ] Web3 & Decentralized Applications
+- [ ] Open-Source Collaboration
+- [ ] Product Design & Innovation
+- [ ] Technical Pitching & Live Demonstrations
+- [ ] Startup & Entrepreneurship
+
+---
+
+## 🎮 Game Jam Track
+
+<div align="center">
+
+  <p>
+    <i>Experiment, create, and build playable experiences.</i>
+  </p>
+
+  <h3>🕹️ Game Jam Platforms</h3>
+
+  <a href="https://light-triad.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
+  </a>
+
+</div>
+
+<br>
+
+### 🌐 Game Jam Platform Profiles
+
+| Platform | Username | Profile |
+|:---:|:---:|:---:|
+| 🎮 itch.io | `light-triad` | [View Profile](https://light-triad.itch.io/) |
+
+<br>
+
+### 🧠 Game Development Focus Areas
+
+<div align="center">
+
+![Game Development](https://img.shields.io/badge/Game_Development-FA5C5C?style=flat-square)
+![Gameplay Programming](https://img.shields.io/badge/Gameplay_Programming-00ADD8?style=flat-square)
+![Game Design](https://img.shields.io/badge/Game_Design-7B2CBF?style=flat-square)
+![Game AI](https://img.shields.io/badge/Game_AI-2ECC71?style=flat-square)
+![Game Physics](https://img.shields.io/badge/Game_Physics-F39C12?style=flat-square)
+![Graphics Programming](https://img.shields.io/badge/Graphics_Programming-3498DB?style=flat-square)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-FF6B6B?style=flat-square)
+![Procedural Generation](https://img.shields.io/badge/Procedural_Generation-8E44AD?style=flat-square)
+
+</div>
+
+<br>
+
+### 🏅 Game Jam History & Projects
+
+> Tracking game jam participation, published games, and creative experiments.
+
+| Game Jam | Game Title | Platform | Result | Year |
+|:---|:---|:---|:---:|:---:|
+| TBD | TBD | itch.io | TBD | TBD |
+
+<br>
+
+### 🎯 Game Development Learning Journey
+
+- [ ] Gameplay Programming
+- [ ] Game Mechanics & Level Design
+- [ ] Game AI & NPC Behavior
+- [ ] Game Physics & Collision Detection
+- [ ] 2D & 3D Graphics Programming
+- [ ] Procedural Content Generation
+- [ ] Game Optimization & Performance
+- [ ] Game Jam Participation & Publishing
+
+---
+
 ## 🔬 Current Focus & Research
 
 - **AI & High-Performance Computing:** Exploring agentic AI, system design patterns, and NVIDIA NIM APIs for intelligent applications.
@@ -315,6 +435,8 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 - **Cybersecurity & Cryptography:** Exploring AI-assisted malware analysis, OSINT, cryptographic techniques, and security research.
 - **Competitive Programming:** Strengthening algorithmic problem-solving, data structures, and computational thinking.
 - **CTF & Offensive Security:** Developing practical security skills through hands-on challenges, vulnerability analysis, and ethical hacking labs.
+- **Hackathons & Product Innovation:** Exploring practical engineering challenges through rapid prototyping, collaborative development, and MVP creation.
+- **Game Jams & Game Development:** Exploring gameplay programming, game mechanics, game AI, and interactive experiences.
 
 ---
 
@@ -362,13 +484,10 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 
   <br><br>
 
-  <h3 align="center">
-  🧬 Deep Learning Architectures & Neural Networks
-</h3>
-
-<div align="center">
+  <h3>🧬 Deep Learning Architectures & Neural Networks</h3>
 
   <!-- Foundation Architectures -->
+
   <img src="https://img.shields.io/badge/Transformers-7B2CBF?style=for-the-badge" alt="Transformers" />
   <img src="https://img.shields.io/badge/CNNs-0077B6?style=for-the-badge" alt="CNNs" />
   <img src="https://img.shields.io/badge/RNNs-2A9D8F?style=for-the-badge" alt="RNNs" />
@@ -378,6 +497,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <br>
 
   <!-- Generative AI -->
+
   <img src="https://img.shields.io/badge/LLMs-9D4EDD?style=for-the-badge" alt="Large Language Models" />
   <img src="https://img.shields.io/badge/Diffusion_Models-FF006E?style=for-the-badge" alt="Diffusion Models" />
   <img src="https://img.shields.io/badge/GANs-F77F00?style=for-the-badge" alt="GANs" />
@@ -386,6 +506,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <br>
 
   <!-- Advanced Architectures -->
+
   <img src="https://img.shields.io/badge/Mixture_of_Experts-7209B7?style=for-the-badge" alt="Mixture of Experts" />
   <img src="https://img.shields.io/badge/State_Space_Models-3A86FF?style=for-the-badge" alt="State Space Models" />
   <img src="https://img.shields.io/badge/Mamba-00B4D8?style=for-the-badge" alt="Mamba" />
@@ -394,12 +515,13 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <br>
 
   <!-- Multimodal & Representation Learning -->
+
   <img src="https://img.shields.io/badge/Vision_Transformers-0081A7?style=for-the-badge" alt="Vision Transformers" />
   <img src="https://img.shields.io/badge/Multimodal_Models-8338EC?style=for-the-badge" alt="Multimodal Models" />
   <img src="https://img.shields.io/badge/Autoencoders-118AB2?style=for-the-badge" alt="Autoencoders" />
   <img src="https://img.shields.io/badge/Encoder--Decoder-E63946?style=for-the-badge" alt="Encoder Decoder" />
 
-</div>
+  <br><br>
 
   <h3>🛡️ Cybersecurity & Security Research</h3>
 
@@ -428,9 +550,11 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <br>
 
   <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" />
 
 </div>
+
+<br>
 
 <h3 align="center">🤖 AI Coding Assistants & Developer Tools</h3>
 
@@ -493,8 +617,6 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
 </div>
-
----
 
 ---
 
@@ -565,6 +687,7 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
 ---
 
 <div align="center">
+
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer"
     width="100%"
@@ -578,4 +701,5 @@ With experience in competitive hackathons, I enjoy tackling complex engineering 
   <a href="#thanapat-manasom-">
     <b>⇧ Back to Top</b>
   </a>
+
 </div>
